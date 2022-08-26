@@ -1,0 +1,2 @@
+.watch{position:absolute;top:50%;left:50%}.watch__minutes{width:300px;background-color:#6e228c;animation:rotate 1s linear infinite}.watch__minutes,.watch__seconds{position:absolute;top:0;left:10px;height:20px;transform-origin:0 10px;transform:rotate(-90deg)}.watch__seconds{width:200px;background-color:#228c3e;animation:rotate 60s linear infinite;animation-delay:1s}.watch__point{position:absolute;top:0;left:0;width:20px;height:20px;border-radius:50%;background-color:#2b0404}@keyframes rotate{0%{rotate:0}to{rotate:1turn}}
+/*# sourceMappingURL=main.b5c4dd41.css.map */
